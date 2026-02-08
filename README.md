@@ -24,7 +24,7 @@ I love building **scalable systems**, beautiful UIs, and intelligent features po
 ## 🌐 Socials
 
 <p>
-  <a href="https://www.linkedin.com/in/ShivenDashora">
+  <a href="https://www.linkedin.com/in/shiven-dashora-84a691248/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
   &nbsp;&nbsp;
