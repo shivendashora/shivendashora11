@@ -80,20 +80,6 @@ I love building **scalable systems**, beautiful UIs, and intelligent features po
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShivenDashora&show_icons=true&theme=react" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivenDashora&layout=compact&theme=react" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=ShivenDashora&theme=react" />
-</p>
-
----
-
 ## 🏆 Featured Projects
 
 ### Measure-X – Medical Imaging SaaS  
